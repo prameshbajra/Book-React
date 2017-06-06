@@ -41,6 +41,7 @@ class Global extends Component {
                         </InputGroup>
                     </FormGroup>
                     <Gallery items={this.state.items} />
+                    <h5>By - Pramesh Bajracharya</h5>
                 </center>
             </div>
         )
